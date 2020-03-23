@@ -15,7 +15,11 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         
         print("我是原作者")
-        
+        print("我是原作者")
+        print("我是原作者")
+        print("我是原作者")
+        print("我是原作者")
+
     }
 
 
